@@ -4,44 +4,31 @@
 
 #### Description:
 
-Space Adventure is an offline multiplayer game developed using Unity C#.
-
-In this game you can create your profile using your name, age and choosing your own ship to fight with
-	, you can also choose your laser color to display in battle in create profile tab under profile.
-
-You can view all created profiles under profile.
-
-Then you can start a game by choosing two profiles to play against each other
-	, first player can go up and down using (w, s) and the second one using (arrow up, arrow down)
-	and shooting using Q for the first player and Space bar for the second.
+Space Adventure is a multiplayer offline game created with Unity C#.
 
 
-The game ends when any of the players die.
+In this game, you can create your own profile by entering your name, age, and selecting your own ship to fight with. You can also select the color of your laser to display in battle in the create profile tab under profile.
 
-The game lasts for 2 minutes.
 
-The Player dies when health reaches zero.
+All created profiles can be found under profile.
 
-After the game ends the result will show up.
 
-There are power ups that appear randomly in the middle to speed up your laser or slow it down
-	, the one with lightning logo will speed up and the with snail will slow down
-	, you can gain those power ups by shooting at them
-	, power ups last for 5 seconds
-	, power ups respawn every 15-20 seconds.
+Then you can start a game by selecting two profiles to play against each other, with the first player moving up and down with (w, s) and the second moving up and down with (arrow up, arrow down) and shooting with Q and Space bar.
 
-All game status is saved in memory, and you can view them in the statistics tab under report
-	,  you can view the number of profiles created
-	, you can view the number of games started
-	, you can view the highest score ever gotten
-	, you can view the lowest score ever gotten
-	, you can view the shortest game played
-	, you can view the longest game played
-	And the total time played.
 
-And you can see all played games from the history tab under report
-	, you can see who played against who
-	, who won
-	, when played
-	, how long it lasted
-	, and how much the winner got score.
+When one of the players is eliminated, the game is over.
+
+
+The game is only 2 minutes long.
+
+
+When the player's health reaches zero, he or she is eliminated. 
+
+The outcome will be displayed after the game has ended.
+
+
+There are power ups that appear randomly in the middle to speed up or slow down your laser, the one with the lightning logo will speed up and the one with the snail will slow down, you can gain those power ups by shooting at them, power ups last for 5 seconds, and power ups respawn every 15-20 seconds. 
+
+All game status is saved in memory, and you can view them in the statistics tab under report. You can view the number of profiles created, the number of games started, the highest score ever gotten, the lowest score ever gotten, the shortest game played, the longest game played, and the total time played.
+
+And you can see all played games from the history tab under report, where you can see who played against who, who won, when it was played, how long it lasted, and how much the winner got scored.
